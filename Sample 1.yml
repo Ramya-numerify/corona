@@ -1,0 +1,10 @@
+data: |
+   Each of these
+   Newlines
+   Will be broken up
+
+data: >
+   This text is
+   wrapped and will
+   be formed into
+   a single paragraph
